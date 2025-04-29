@@ -10,9 +10,9 @@ db.empleados.insertMany([
 
 db.empleados.updateOne(
     {nombre: 'Maria'},
-    {$set: {edad: '44'}}
+    {$set: {edad: 44}}
 );
 
 db.empleados.deleteOne(
-    {puesto: 'pasanate'}
+    {puesto: 'pasante'}
 );
