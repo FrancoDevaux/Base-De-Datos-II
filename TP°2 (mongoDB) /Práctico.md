@@ -1,16 +1,16 @@
 # TP2: MongoDB
 
-## Ejercicio 1: CRUD básico
+## Ejercicio 1: ``CRUD básico``
 - Crea una base de datos llamada empresa.
 - Agrega una colección empleados con 3 documentos que incluyan nombre, edad y puesto.
 - Actualiza la edad de uno de los empleados.
 - Elimina al empleado que tenga el puesto de "pasante".
 
-## Ejercicio 2: 
-- Búsquedas con operadores Consulta todos los empleados cuya edad esté entre 25 y 40 años. Usa operadores relacionales y lógicos.
+## Ejercicio 2: `Búsquedas con operadores`
+- Consulta todos los empleados cuya edad esté entre 25 y 40 años. Usa operadores relacionales y lógicos.
 
-## Ejercicio 3: 
-- Uso de proyección Recupera los nombres y puestos de todos los empleados, sin mostrar el _id.
+## Ejercicio 3: `Uso de proyecció`
+- Recupera los nombres y puestos de todos los empleados, sin mostrar el _id.
 
 ## Ejercicio 4: 
 - Documentos embebidos Agrega un campo direccion que incluya calle, ciudad y codigo_postal.
