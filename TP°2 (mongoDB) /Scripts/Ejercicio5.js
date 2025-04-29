@@ -17,7 +17,7 @@ db.ventas.insertMany([
 
 db.ventas.aggregate([
     {
-        $group: {
+        $group: { // lo agrupamos "producto"
             _id: "$producto",
             total_ventas: { $sum: { $multiply: ["$cantidad", "$precio_unitario"] } }
         }
