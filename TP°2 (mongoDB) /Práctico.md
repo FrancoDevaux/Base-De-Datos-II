@@ -1,6 +1,6 @@
 # TP2: MongoDB
 
-##Ejercicio 1: CRUD básico
+## Ejercicio 1: CRUD básico
 - Crea una base de datos llamada empresa.
 - Agrega una colección empleados con 3 documentos que incluyan nombre, edad y puesto.
 - Actualiza la edad de uno de los empleados.
