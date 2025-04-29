@@ -24,7 +24,7 @@
 ## Ejercicio 7: `Referencias`
 - Crea una colección cursos y una colección alumnos. Luego inserta documentos donde los alumnos tengan una lista de id_curso referenciando a los cursos.
 
-## Ejercicio 8: `Uso de **$lookup**`
+## Ejercicio 8: `Uso de $lookup`
 - Realiza una agregación donde se combinen los datos de alumnos y cursos usando $lookup.
 
 ## Ejercicio 9: `Replicación y sharding (teórico)`
