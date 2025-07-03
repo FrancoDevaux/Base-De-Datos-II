@@ -1,5 +1,5 @@
 CREATE 
-    (Juan:Usuario {nombre:"JuanDev"})
+    (Juan:Usuario {nombre:"JuanDev"}),
     (Eros:Usuario {nombre:"ErosPro"}),
     (Lautaro:Usuario {nombre:"LautaroArt"}),
     (Franco:Usuario {nombre:"FrancoFit"}),
