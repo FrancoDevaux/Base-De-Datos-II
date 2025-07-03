@@ -2,5 +2,7 @@
 
 ## Capturas del Neo4j
 
+Esto nos devuelve `TODOS` los **nodos** que creamos (**departamentos, empleados y proyectos**)
+![image](https://github.com/user-attachments/assets/c09b68df-dc7c-45ee-b19f-f39bfe75c1cd)
 
-![Imagen de WhatsApp 2025-07-03 a las 16 04 54_6b6a194b](https://github.com/user-attachments/assets/23b8eda1-6527-4a7e-9d60-2ce512ac34ba)
+
