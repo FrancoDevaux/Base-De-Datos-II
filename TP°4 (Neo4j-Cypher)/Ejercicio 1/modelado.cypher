@@ -10,8 +10,8 @@ CREATE
     (ingenieria:Departamento {nombre: "Ingenieria"}),
 
     // Proyectos
-    (proyectoA:Proyecto {nombre: "Proyecto A"}),
-    (proyectoB:Proyecto {nombre: "Proyecto B"}),
+    (proyectoA:Proyecto {nombre: "Proyecto X"}),
+    (proyectoB:Proyecto {nombre: "Proyecto Z"}),
 
     // Relaciones de pertenencia
     (jorge)-[:PERTENECE_A]->(biologia),
@@ -19,11 +19,11 @@ CREATE
     (carlos)-[:PERTENECE_A]->(ingenieria),
 
     // Asignaciones con horas semanales
-    (jorge)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoA),
-    (ariel)-[:TRABAJA_EN {horas_semanales: 35}]->(proyectoB),
-    (carlos)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoA),
-    (carlos)-[:TRABAJA_EN {horas_semanales: 25}]->(proyectoB),
+    (jorge)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoX),
+    (ariel)-[:TRABAJA_EN {horas_semanales: 35}]->(proyectoZ),
+    (carlos)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoX),
+    (carlos)-[:TRABAJA_EN {horas_semanales: 25}]->(proyectoZ),
     
     // Líderes de proyecto
-    (jorge)-[:LIDERA]->(proyectoA),
-    (ana)-[:LIDERA]->(proyectoB);
+    (jorge)-[:LIDERA]->(proyectoX),
+    (ariel)-[:LIDERA]->(proyectoZ);
