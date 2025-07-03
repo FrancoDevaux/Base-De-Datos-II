@@ -7,3 +7,11 @@ En este otro ejercicio el ``modelado`` debe tener:
 - Que tengan dos habilidades por usuario y algun endoso
 
 ## Capturas del ``Neo4j``
+
+![image](https://github.com/user-attachments/assets/75e7fc34-772d-4bac-9fce-19f0ea21b13e)
+
+![image](https://github.com/user-attachments/assets/06f36335-f6d9-48fc-9272-d6c4899d9ecb)
+
+![image](https://github.com/user-attachments/assets/9744bd73-4f02-4a66-98ef-a3526e06e596)
+
+![image](https://github.com/user-attachments/assets/b5ee832b-cfdf-488b-92e8-29634131b7d8)
