@@ -10,8 +10,8 @@ CREATE
     (ingenieria:Departamento {nombre: "Ingenieria"}),
 
     // Proyectos
-    (proyectoA:Proyecto {nombre: "Proyecto X"}),
-    (proyectoB:Proyecto {nombre: "Proyecto Z"}),
+    (proyectoX:Proyecto {nombre: "Proyecto X"}),
+    (proyectoZ:Proyecto {nombre: "Proyecto Z"}),
 
     // Relaciones de pertenencia
     (jorge)-[:PERTENECE_A]->(biologia),
