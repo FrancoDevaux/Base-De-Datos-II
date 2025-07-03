@@ -14,4 +14,5 @@ En este otro ejercicio el ``modelado`` debe tener:
 
 ![image](https://github.com/user-attachments/assets/9744bd73-4f02-4a66-98ef-a3526e06e596)
 
-![image](https://github.com/user-attachments/assets/b5ee832b-cfdf-488b-92e8-29634131b7d8)
+![image](https://github.com/user-attachments/assets/dd9f812a-986e-4402-9a93-0909c73ef2c4)
+
