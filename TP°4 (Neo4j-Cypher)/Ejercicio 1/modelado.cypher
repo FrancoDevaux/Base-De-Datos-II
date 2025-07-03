@@ -13,17 +13,17 @@ CREATE
     (proyectoX:Proyecto {nombre: "Proyecto X"}),
     (proyectoZ:Proyecto {nombre: "Proyecto Z"}),
 
-    // Relaciones de pertenencia
+    // Relaciones 
     (jorge)-[:PERTENECE_A]->(biologia),
     (ariel)-[:PERTENECE_A]->(agronomia),
     (carlos)-[:PERTENECE_A]->(ingenieria),
 
-    // Asignaciones con horas semanales
+    // Asignaciones 
     (jorge)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoX),
     (ariel)-[:TRABAJA_EN {horas_semanales: 35}]->(proyectoZ),
     (carlos)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoX),
     (carlos)-[:TRABAJA_EN {horas_semanales: 25}]->(proyectoZ),
     
-    // Líderes de proyecto
+    // Líderes
     (jorge)-[:LIDERA]->(proyectoX),
     (ariel)-[:LIDERA]->(proyectoZ);
