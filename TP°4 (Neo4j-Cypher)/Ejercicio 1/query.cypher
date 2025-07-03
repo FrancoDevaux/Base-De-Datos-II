@@ -8,7 +8,7 @@ RETURN p.nombre AS proyecto, sum(a.horas_semanales) AS total_horas;
 
 // Listar empleados que trabajan en más de un proyecto
 MATCH (e:Empleado)-[:TRABAJA_EN]->(p:Proyecto)
-WITH e, COUNT(p) AS cant_proyectos
-WHERE cant_proyectos > 1
-RETURN e.nombre AS empleado, cant_proyectos;
+WITH e, COUNT(p) AS cantidad_proyectos
+WHERE cantidad_proyectos > 1
+RETURN e.nombre AS empleado, cantidad_proyectos;
 
