@@ -1,4 +1,4 @@
-# Ejercico 1
+# Sistema de Gestión de Proyectos
 
 ## Capturas del Neo4j
 
