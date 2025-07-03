@@ -12,6 +12,9 @@ Aca tenemos **todos los nodos** que creamos
 
 ![image](https://github.com/user-attachments/assets/b030e3dc-abcf-4788-b1f5-23d78d522e55)
 
+Esto nos da las **relaciones** entre los **nodos**
+
+![image](https://github.com/user-attachments/assets/51c0fdda-0d16-42e2-b804-c7c95f723cd6)
 
 
 ## Consultas
