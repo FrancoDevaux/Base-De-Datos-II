@@ -4,7 +4,7 @@
 
 Esto nos devuelve `TODOS` los **nodos** que creamos (**departamentos, empleados y proyectos**)
 
-![image](https://github.com/user-attachments/assets/c09b68df-dc7c-45ee-b19f-f39bfe75c1cd)
+![image](https://github.com/user-attachments/assets/44a12276-489f-465c-9443-bc112295bef0)
 
 Ahora esto nos devuleve todos los nodos y **realciones** entre ellos
 
