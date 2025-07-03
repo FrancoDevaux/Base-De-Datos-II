@@ -1,5 +1,12 @@
 # Sistema de Gestión de Proyectos
 
+#### Requisitos
+En el `modelado` tenia que haber:
+- Tres empleados que esten en distintos departamentos
+- Que haya dos proyectos
+- Horas semanales
+- Que tenga un lider por proyecto
+
 ## Capturas del Neo4j
 
 Esto nos devuelve `TODOS` los **nodos** que creamos (**departamentos, empleados y proyectos**)
