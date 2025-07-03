@@ -1,6 +1,6 @@
 CREATE  
     // Empleados
-    (jorge:Empleado {nombre: "Jorge"})
+    (jorge:Empleado {nombre: "Jorge"}),
     (ariel:Empleado {nombre: "Ariel"}),
     (carlos:Empleado {nombre: "Carlos"}),
 
