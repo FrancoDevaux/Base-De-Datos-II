@@ -23,4 +23,5 @@ Ahora esto nos devuleve todos los nodos y **realciones** entre ellos
 
 - Listar los empleados que trabajan en más de un proyecto:
 
-  ![image](https://github.com/user-attachments/assets/857be69e-f720-4bd0-a043-7cb21372ddde)
+  ![image](https://github.com/user-attachments/assets/25f12151-09c9-461b-bfb4-11a02755ecb6)
+
