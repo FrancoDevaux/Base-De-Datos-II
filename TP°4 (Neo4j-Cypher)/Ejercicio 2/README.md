@@ -8,6 +8,13 @@ En este otro ejercicio el ``modelado`` debe tener:
 
 ## Capturas del ``Neo4j``
 
+Aca tenemos **todos los nodos** que creamos
+
+![image](https://github.com/user-attachments/assets/b030e3dc-abcf-4788-b1f5-23d78d522e55)
+
+
+
+## Consultas
 ![image](https://github.com/user-attachments/assets/75e7fc34-772d-4bac-9fce-19f0ea21b13e)
 
 ![image](https://github.com/user-attachments/assets/06f36335-f6d9-48fc-9272-d6c4899d9ecb)
