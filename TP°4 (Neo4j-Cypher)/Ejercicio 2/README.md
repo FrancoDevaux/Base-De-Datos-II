@@ -18,11 +18,15 @@ Esto nos da las **relaciones** entre los **nodos**
 
 
 ## Consultas
-![image](https://github.com/user-attachments/assets/75e7fc34-772d-4bac-9fce-19f0ea21b13e)
+- Listar los usuarios con más conexiones ( ``COUNT`` ):
+  ![image](https://github.com/user-attachments/assets/75e7fc34-772d-4bac-9fce-19f0ea21b13e)
 
-![image](https://github.com/user-attachments/assets/06f36335-f6d9-48fc-9272-d6c4899d9ecb)
+- Obtener los 2 usuarios con más publicaciones:
+  ![image](https://github.com/user-attachments/assets/06f36335-f6d9-48fc-9272-d6c4899d9ecb)
 
-![image](https://github.com/user-attachments/assets/9744bd73-4f02-4a66-98ef-a3526e06e596)
+- Mostrar las habilidades más endosadas en total:
+  ![image](https://github.com/user-attachments/assets/9744bd73-4f02-4a66-98ef-a3526e06e596)
 
-![image](https://github.com/user-attachments/assets/dd9f812a-986e-4402-9a93-0909c73ef2c4)
+- Para un usuario específico, listar las habilidades que aún no ha endosado a otros:
+  ![image](https://github.com/user-attachments/assets/dd9f812a-986e-4402-9a93-0909c73ef2c4)
 
