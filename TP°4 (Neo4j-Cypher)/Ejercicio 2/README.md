@@ -1,3 +1,3 @@
 # Red Social Profesional
 
-### Capturas del ``Neo4j``
+## Capturas del ``Neo4j``
