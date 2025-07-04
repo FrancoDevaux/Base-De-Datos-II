@@ -1,6 +1,6 @@
 # Sistema de Gestión de Proyectos
 
-#### Requisitos
+#### Requerimientos:
 En el `modelado` tenia que haber:
 - Tres empleados que esten en distintos departamentos
 - Que haya dos proyectos
