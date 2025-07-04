@@ -27,7 +27,7 @@ Ahora vemos sus **realciones**
 
 - Verificar si un estudiante puede inscribirse en una materia (si aprobó los prerrequisitos) :
 
-- **Franco** da `True` porque **si aprobo Ingles 1** con un `Ocho`
+  - **Franco** da `True` porque **si aprobo Ingles 1** con un `Ocho`
   ![image](https://github.com/user-attachments/assets/415835ab-72ef-446e-8112-391a343f976f)
 
   - **Laucha** da `False` porque **no aprobo Ingles 1** ya que se sacos un ``Cuatro``
