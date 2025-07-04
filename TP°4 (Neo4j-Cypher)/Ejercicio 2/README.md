@@ -1,6 +1,6 @@
 # Red Social Profesional
 
-#### Requisitos
+#### Requerimientos:
 En este otro ejercicio el ``modelado`` debe tener:
 - Cuatro usuarios que tengan conexiones entre si
 - Que haya tres posts de distintos users
