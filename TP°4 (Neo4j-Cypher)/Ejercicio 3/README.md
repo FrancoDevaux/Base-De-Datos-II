@@ -28,6 +28,8 @@ Ahora vemos sus **realciones**
 - Verificar si un estudiante puede inscribirse en una materia (si aprobó los prerrequisitos) :
 
   ![image](https://github.com/user-attachments/assets/c14faf45-db0b-4ddb-a979-dc4836bd0802)
+
+  - **Laucha** da `False` porque **no aprobo Ingles 1** ya que se sacos un ``Cuatro``
   ![image](https://github.com/user-attachments/assets/5515b6c2-29ab-4d31-990c-4639ca587c51)
 
 - Calcular el promedio de calificaciones por estudiante :
