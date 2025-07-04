@@ -20,8 +20,8 @@ CREATE
 
     // Asignaciones 
     (jorge)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoX),
-    (ariel)-[:TRABAJA_EN {horas_semanales: 35}]->(proyectoZ),
-    (carlos)-[:TRABAJA_EN {horas_semanales: 30}]->(proyectoX),
+    (ariel)-[:TRABAJA_EN {horas_semanales: 40}]->(proyectoZ),
+    (carlos)-[:TRABAJA_EN {horas_semanales: 45}]->(proyectoX),
     (carlos)-[:TRABAJA_EN {horas_semanales: 25}]->(proyectoZ),
     
     // Líderes
