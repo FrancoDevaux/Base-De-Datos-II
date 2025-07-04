@@ -9,7 +9,7 @@ RETURN
 
 MATCH (prer:Materia)-[:PRERREQUISITO_DE]->(:Materia {nombre: "Ingles 2"})
 WHERE NOT EXISTS {
-  MATCH (:Estudiante {nombre: "Eros"})-[r:INSCRIPTO]->(:Cursada)-[:MATERIA_DE]->(prer)
+  MATCH (:Estudiante {nombre: "Eros"})-[r:INSCRIPTO]->(c:Cursada)<-[:MATERIA_DE]-(prer)
   WHERE r.nota_final >= 6
 }
 RETURN COUNT(prer) = 0 AS puede_inscribirse;
