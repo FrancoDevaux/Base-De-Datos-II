@@ -26,7 +26,7 @@ Ahora esto nos devuleve todos los nodos y **realciones** entre ellos
 
 - Calcular el total de horas semanales por proyecto:
   
-  ![image](https://github.com/user-attachments/assets/a38d4a75-9706-4ebc-be02-8f65348b0081)
+  ![image](https://github.com/user-attachments/assets/b11724df-f231-43d7-932b-e703d35d0c04)
 
 - Listar los empleados que trabajan en más de un proyecto:
 
