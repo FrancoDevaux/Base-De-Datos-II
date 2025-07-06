@@ -36,4 +36,4 @@ CREATE
     (Juan)-[:ENDOSA]->(h8),
     (Eros)-[:ENDOSA]->(h2),
     (Lautaro)-[:ENDOSA]->(h2);
-
+;
