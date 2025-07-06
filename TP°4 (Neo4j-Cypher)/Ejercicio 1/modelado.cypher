@@ -27,3 +27,4 @@ CREATE
     // Líderes
     (jorge)-[:LIDERA]->(proyectoX),
     (ariel)-[:LIDERA]->(proyectoZ);
+;
