@@ -1,0 +1,14 @@
+{
+  "name": "cursos-online",
+  "version": "1.0.0",
+  "description": "Proyectos de Cursos Online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "initdb": "node initData.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.16.1",
+    "express": "^4.19.2"
+  }
+}
